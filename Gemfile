@@ -26,7 +26,7 @@ end
 group :development, :test do
   gem 'rspec-rails', '~> 4.1.0.pre', github: 'rspec/rspec-rails'
   gem 'rspec-core', '~> 3.10.0.pre', github: 'rspec/rspec-core'
-  gem 'rspec-expectations', '~>  2.14.0', github: 'rspec/rspec-expectations'
+  gem 'rspec-expectations', '~>  3.10.0.pre', github: 'rspec/rspec-expectations'
   gem 'rspec-mocks', '~> 2.14.0', github: 'rspec/rspec-mocks'
   gem 'rspec-support', '~> 3.10.0', github: 'rspec/rspec-support'
   gem 'factory_girl_rails', '~> 4.4.1'
